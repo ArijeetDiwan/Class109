@@ -1,0 +1,9 @@
+properties of normal distribution :
+1.dataset which follow normal distribution
+the mean,median,mode are equal {there are at their peak}
+
+2.y axis the the probablity{frequency}
+3. symetrical nature {mean divided into 2 equal parts }
+4.68% of the data lies within 1st standrad deviation(between mean-sd to mean+sd)
+5.95% of the data lies within 2nd standrad deviation(between mean-2sd to mean+2sd)
+6.99% of the data lies within 3rd standrad deviation(between mean-3sd to mean+3sd)
